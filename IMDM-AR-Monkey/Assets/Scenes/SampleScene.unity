@@ -634,16 +634,24 @@ PrefabInstance:
       value: tree2
       objectReference: {fileID: 0}
     - target: {fileID: 5378016770735893141, guid: 72874cb8c3ca48442862d94d56b40e66, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5378016770735893141, guid: 72874cb8c3ca48442862d94d56b40e66, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5378016770735893141, guid: 72874cb8c3ca48442862d94d56b40e66, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.65
       objectReference: {fileID: 0}
     - target: {fileID: 5378016770735893141, guid: 72874cb8c3ca48442862d94d56b40e66, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.21
       objectReference: {fileID: 0}
     - target: {fileID: 5378016770735893141, guid: 72874cb8c3ca48442862d94d56b40e66, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -13.17
       objectReference: {fileID: 0}
     - target: {fileID: 5378016770735893141, guid: 72874cb8c3ca48442862d94d56b40e66, type: 3}
       propertyPath: m_LocalRotation.w

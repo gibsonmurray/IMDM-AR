@@ -254,3 +254,91 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 937.477329 seconds.
+  path: Assets/XR/XRGeneralSettingsPerBuildTarget.asset
+  artifactKey: Guid(8da3f7d30837a294d8dbcdd34745c43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettingsPerBuildTarget.asset using Guid(8da3f7d30837a294d8dbcdd34745c43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de24fe1b4614cf7967ae0311c8a6c2c3') in 0.003078 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 16.520816 seconds.
+  path: Assets/Background.prefab
+  artifactKey: Guid(99d1efecfbd86f94da27bd7173c8e396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Background.prefab using Guid(99d1efecfbd86f94da27bd7173c8e396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e0d9ab5bd28dcb1d515d65dabb6f02e') in 0.097104 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 80.951479 seconds.
+  path: Assets/Art Assets/foliage.png
+  artifactKey: Guid(55ceb1f475fb04820badc25ad71db5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art Assets/foliage.png using Guid(55ceb1f475fb04820badc25ad71db5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b531fb9b53ed3cd37700869f4485dcc2') in 0.044179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.717164 seconds.
+  path: Assets/Art Assets/tree1.png
+  artifactKey: Guid(6c06082c608184240ab1ae81731302da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art Assets/tree1.png using Guid(6c06082c608184240ab1ae81731302da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27fb430a21a841c93abc8b3f1a54410d') in 0.072216 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 25.950964 seconds.
+  path: Assets/Art Assets/foliage.prefab
+  artifactKey: Guid(c1ac21fc8e1efc641b03b8ad521b97c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art Assets/foliage.prefab using Guid(c1ac21fc8e1efc641b03b8ad521b97c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c0c516ce89d015cd3e66d8a8f7c106c') in 0.028075 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 24.142897 seconds.
+  path: Assets/Prefab
+  artifactKey: Guid(ff8ca1a19869fc54e8592e50e7088fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab using Guid(ff8ca1a19869fc54e8592e50e7088fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df072dab9d7ccd075d2c8b156f27bffb') in 0.001794 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 42.013148 seconds.
+  path: Assets/Prefab/foliage.prefab
+  artifactKey: Guid(d4dcbb95d2ec18d4bb9a811d2e102e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/foliage.prefab using Guid(d4dcbb95d2ec18d4bb9a811d2e102e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d886ecc6c292414a61e15f059552859') in 0.028689 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 11.537856 seconds.
+  path: Assets/Prefab/tree1.prefab
+  artifactKey: Guid(5c104815700cdf241836f988a1adf2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/tree1.prefab using Guid(5c104815700cdf241836f988a1adf2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc1a42a5a82d786f02f3b025ec192b1c') in 0.045220 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 194.420308 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ea02f564ba6a276ec032d720829234') in 0.002671 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 102.400037 seconds.
+  path: Assets/Art Assets/foliage3.png
+  artifactKey: Guid(f6a3a2a5b974f4998adfed019888a9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art Assets/foliage3.png using Guid(f6a3a2a5b974f4998adfed019888a9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbdd6b5cf0da9505b2c7f3efdf524604') in 0.075684 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.386802 seconds.
+  path: Assets/Art Assets/foliage3.prefab
+  artifactKey: Guid(0f01add82df4fcd46b6c73242b652904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art Assets/foliage3.prefab using Guid(0f01add82df4fcd46b6c73242b652904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acefd1e0ae9a46ae1e97c6aef7372eaf') in 0.056277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
